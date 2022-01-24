@@ -111,3 +111,29 @@ h1, h2 {
 
     position: absolute;
 }
+
+/* club ethos section */
+
+#club-ethos {
+    height: 600px;
+}
+
+#left-about {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: blue;
+}
+
+#right-about {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: grey;
+}
+
+#center-about {
+    margin: 0 auto;
+    width: 33%;
+    background-color: green;
+}
